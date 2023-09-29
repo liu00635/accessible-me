@@ -1,6 +1,9 @@
+html {
+  font-size: 18px;
+}
+
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  font-size: 18px;
   line-height: 1.5;
   background-color: rgb(237, 237, 237);
   margin: 0;
